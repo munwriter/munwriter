@@ -1,0 +1,16 @@
+:root {
+    --react-color: #84c7ff;
+    --docker-color: #4badfd;
+    --python-color: #84bffa;
+    --postgres-color: #3c8ad8;
+    --poetry-color: #006eff;
+    --gh-actions-color: #1c7eff;
+    --git-color: #ff7700;
+    --html-color: #ff6200;
+    --redis-color: #CC2E32;
+    --vite-color: #ffc400;
+    --fastapi-color: #019486;
+    --django-color: #006b4b;
+    --sqlalchemy-color: #768878;
+
+}
